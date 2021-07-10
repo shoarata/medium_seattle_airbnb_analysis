@@ -11,6 +11,10 @@ This project answers thre questions
 * Does being a super-host makes the difference?
   * Yes, superhost's listings are more successfull on average than non-superhost's listings.
 
+## Links to posts
+* [Non-technical post](https://shoarata.medium.com/airbnbing-in-seattle-a-beginners-concerns-9a3b2a95676)
+* [Technical post](https://shoarata.medium.com/a-brief-analysis-of-airbnbs-in-seattle-5770f058ce26)
+
 ## Data Used
 * [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle/data)
 * [City Clerk Neighborhoods](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::city-clerk-neighborhoods/about)
